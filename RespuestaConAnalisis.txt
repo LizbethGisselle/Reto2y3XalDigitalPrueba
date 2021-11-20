@@ -1,0 +1,20 @@
+-------------MEJIA CORTEZ LIZBETH GISSELLE--------------
+RESPUESTAS AL RETO NUMERO 2 obtenidas del analisis del archivo proporcionado:
+
+2. Obtener el número de respuestas contestadas y no contestadas
+En el archivo JSON hay: 24 respuestas contestadas  y 6 No cotestadas
+
+3. Obtener la respuesta con mayor owners
+La respuesta con mayor owners y mejor reputación de 61481 puntos, id de usuario: 60281 de nombre:DevSolar
+
+4. Obtener la respuesta con menor número de vistas
+La respuesta con menor numero de vistas tiene el id :  69963650, con un total de: 13 vistas, title: how to edit sheet in excel using subroutine when excel created in another perl file?
+
+5. Obtener la respuesta más vieja y más actual
+La respuesta más vieja tiene el id: 569772
+con una fecha de creación de : 1235140888
+id de usuario:65572
+
+Y la más actual:id: 70033126
+Fecha de creación : 1637316716
+id de usuario: 11606368
